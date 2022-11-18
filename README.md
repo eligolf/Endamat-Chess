@@ -21,7 +21,11 @@ Playing Endamat Chess in its own GUI is very simple. You can run the command "py
   <br>
 </figure>
 
-You move the pieces by dragging and dropping them on the board. All possibles squares for a piece lights up when you start dragging.
+You move the pieces by dragging and dropping them on the board. All possibles squares for a piece lights up when you start dragging. Here is a video showcasing the GUI and playing a quick game vs the engine. The time control is pretty fast and I have the option to NOT run out of time, so it is a bit of cheating maybe :)
+
+
+https://user-images.githubusercontent.com/100910478/202635911-5214ac5a-9597-4dff-ab9f-2bbf6d9ad7cd.mp4
+
 
 **Chose time control:** 
 The default time control is 3 minutes with 2 seconds of increment. You can change the time control by Game-Time control in the top menu bar. You can chose to let the engine think to a specific depth per move, use a certain time per move, or put in the total game time (minutes, seconds, increment per move).
